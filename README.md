@@ -7,7 +7,7 @@ Andi adalah seorang pemilik supermarket besar di salah datu kota di Indonesia. A
 
 ## Feature Requirements
 Sistem yang dibuat mengacu pada Journey Customer Supermarket yang terdiri atas: 
-1. Customer membuat ID Transaksi customer
+1. Pembuatan ID Transaksi customer
 2. Customer memasukkan nama item, jumlah item, dan harga barang
 3. Jika ternyata ada kesalahan dalam memasukan nama item dan harga item tetapi tidak ingin menghapus itemnya, customer dapat melakukan editing
 4. Jika batal membeli item belanjaan customer bisa melakukan penghapusan/reset transaksi
