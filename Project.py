@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 '''Pembuatan kelas dan fungsi'''
 
 class Transaction:
@@ -109,8 +103,6 @@ def create_transaction():
     transaction.display_transaction()
 #fungsi ini digunakan untuk menampilkan rincian akhir transaksi yang telah dilakukan oleh pelanggan
 
-
-# In[ ]:
 
 
 create_transaction()
